@@ -15,17 +15,17 @@
 # &nbsp;📊My GitHub Stats:
 <br>![](https://github-readme-stats.vercel.app/api?username=boitumelo-09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://nirzak-streak-stats.vercel.app/?user=boitumelo-09&theme=tokyonight&hide_border=false)<br/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=boitumelo-09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=boitumelo-09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✍️ Today's Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ### 🔝 Top Contributed Repo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-contributor-stats.vercel.app/api?username=boitumelo-09&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=boitumelo-09&icon=9&color=5)](https://visitcount.itsvg.in)
-
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✍️ Today's Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
