@@ -1,5 +1,5 @@
 
-#     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋 Hey there, I'm Boitumelo Clement Mkhondo<br><br>
+#     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ohh Hey!!👋, I'm Boitumelo Clement Mkhondo<br><br>
 ### 🎓 Student In Bachelor of Mathematical Sciences @ University of Limpopo  <br>
 ### 💻 Aspiring Embedded Systems Software Developer & Game Developer <br>
 ### 📚 Currently learning: C++, JavaScript, PHP & Data Structures  <br>
