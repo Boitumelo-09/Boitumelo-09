@@ -1,5 +1,9 @@
 
-# 👋 Hey there, I'm Boitumelo Clement Mkhondo<br><br>🎓 Bachelor of Mathematical Sciences @ University of Limpopo  <br>💻 Aspiring Embedded Systems Software Developer & Cybersecurity Enthusiast  <br>📚 Currently learning: C++, JavaScript, PHP & Data Structures  <br>📊 Passionate about stats, code, and building useful things  <br><br>
+# 👋 Hey there, I'm Boitumelo Clement Mkhondo<br><br>
+## 🎓 Bachelor of Mathematical Sciences @ University of Limpopo  <br>
+## 💻 Aspiring Embedded Systems Software Developer & Cybersecurity Enthusiast  <br>
+## 📚 Currently learning: C++, JavaScript, PHP & Data Structures  <br>
+## 📊 Passionate about stats, code, and building useful things  <br><br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=boitumelo-09&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
