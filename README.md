@@ -5,7 +5,7 @@
 ### 📚 Currently learning: C++, JavaScript, PHP & Data Structures  <br>
 ### 📊 Passionate about stats, code, and building useful things  <br><br>
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏆 GitHub Trophies
+## &nbsp;🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=boitumelo-09&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 ## 🌐My Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/3YeX85Y7Np) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@belmire.dub) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@belmire.dub) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/boitumelo-mkhondo-000a23312) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26837495) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@boitumelotech) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@belmiredubby) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@boitech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:belmiredub4@gmail.com) 
