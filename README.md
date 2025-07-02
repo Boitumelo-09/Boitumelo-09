@@ -1,5 +1,5 @@
 
-#     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ohh Hey!!👋, I'm Boitumelo C(++)lement Mkhondo<br><br>
+#     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ohh Hey!!👋, I'm Boitumelo Clement Mkhondo aka The CLI Lord<br><br>
 ### 🎓 Student In Bachelor of Mathematical Sciences @ University of Limpopo  <br>
 ### 💻 Aspiring Embedded Systems Software Developer & Game Developer <br>
 ### 📚 Currently learning: C++, JavaScript, PHP & Data Structures  <br>
