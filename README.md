@@ -1,5 +1,5 @@
 
-#  Ohh Hey!!👋, I'm Boitumelo Clement Mkhondo <b>aka</b> <em>The CLI Wizard</em><br><br>
+#  Ohh Hey!!👋, I'm Boitumelo Clement Mkhondo <b>aka</b><em> | CLI-Wizard</em><br><br>
 ### 🎓 Student In Bachelor of Mathematical Sciences @ University of Limpopo  <br>
 ### 💻 Aspiring Embedded Systems Software Developer & Game Developer <br>
 ### 📚 Currently learning: C++, JavaScript, PHP & Data Structures  <br>
