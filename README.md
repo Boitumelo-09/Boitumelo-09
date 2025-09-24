@@ -1,4 +1,4 @@
-#  Ohh Hey!!👋, I'm Boitumelo Clement Mkhondo <b>aka</b><em> | GlitchLord</em><br><br>
+#     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ohh Hey!!👋, I'm Boitumelo Clement Mkhondo aka The CLI Lord<br><br>
 ### 🎓 Student In Bachelor of Mathematical Sciences @ University of Limpopo  <br>
 ### 💻 Aspiring Embedded Systems Software Developer & Game Developer <br>
 ### 📚 Currently learning: C++, JavaScript, PHP & Data Structures  <br>
@@ -23,3 +23,8 @@
 ### 🔝 Top Contributed Repo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-contributor-stats.vercel.app/api?username=boitumelo-09&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=boitumelo-09&icon=9&color=5)](https://visitcount.itsvg.in)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✍️ Today's Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
