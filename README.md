@@ -1,5 +1,5 @@
 ![](./banner2.gif)
-#   Ohh Hey!!😏, Welcome To My Realm!<br><br>
+#   <em>I see you, mortal… Welcome to my realm.!</em><br><br>
 ##  I'm The GlitchLord ⛓ <em>i summon kernels, not functions.</em><br><br>
 ### I'm Boitumelo Clement Mkhondo & can be a: <br>
 ### 🎓 Student In Bachelor of Mathematical Sciences @ University of Limpopo  <br>
