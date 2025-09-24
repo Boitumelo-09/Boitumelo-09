@@ -1,11 +1,13 @@
 ![](./banner2.gif)
 #   Ohh Hey!!😏, Welcome To My Realm!<br><br>
-##  I'm The GlitchLord<br>, <em>I summon kernels, not functions.</em><br>
+##  I'm The GlitchLord ⛓ <em>i summon kernels, not functions.</em><br><br>
+### I'm Boitumelo Clement Mkhondo & can be a: <br>
 ### 🎓 Student In Bachelor of Mathematical Sciences @ University of Limpopo  <br>
 ### 💻 Aspiring Embedded Systems Software Developer & Game Developer <br>
 ### 📚 Currently learning: C++, JavaScript, PHP & Data Structures  <br>
-### 📊 Passionate about stats, code, and building useful things  <br><br>
-
+### 📊 Passionate about stats, code, and building useful things  <br>
+#### &nbsp; &nbsp; <i>Depending on how you inteprete me :)</i> <sub> just kidding 🤣!!! </sub> <br><br>
+# <em>👌Check out my ...</em> <br><br>
 ## &nbsp;🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=boitumelo-09&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 ## 🌐My Socials:
