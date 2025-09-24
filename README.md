@@ -1,6 +1,6 @@
 ![](./banner2.gif)
 #   <em>I see you, mortal… Welcome to my realm🕷!</em><sub><i>
-🦇where english fails, 🗣human speak code,👥compiler translates, and !👤machine responds</i></sub>
+🦇where english fails, 🗣human speak code,👥compiler translates, and 👤machine responds!</i></sub>
 <br><br>
 ##  I'm The GlitchLord ⛓ <em>i summon kernels, not functions.</em><br><br>
 ### I'm Boitumelo Clement Mkhondo & can be a: <br>
