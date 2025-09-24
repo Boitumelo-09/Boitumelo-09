@@ -1,6 +1,6 @@
 ![](./banner2.gif)
 #   Ohh Hey!!😏, Welcome To My Realm!<br><br>
-##  I'm Boitumelo Clement Mkhondo | The GlitchLord<br><br>
+##  I'm The GlitchLord<br>, <em>I summon kernels, not functions.</em><br>
 ### 🎓 Student In Bachelor of Mathematical Sciences @ University of Limpopo  <br>
 ### 💻 Aspiring Embedded Systems Software Developer & Game Developer <br>
 ### 📚 Currently learning: C++, JavaScript, PHP & Data Structures  <br>
