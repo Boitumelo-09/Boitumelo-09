@@ -1,5 +1,5 @@
 ![](./banner.gif)
-#  Ohh Hey!!👋, I'm Boitumelo Clement Mkhondo | The GlitchLord<br><br>
+#  Ohh Hey!!😏, I'm Boitumelo Clement Mkhondo | The GlitchLord<br><br>
 ### 🎓 Student In Bachelor of Mathematical Sciences @ University of Limpopo  <br>
 ### 💻 Aspiring Embedded Systems Software Developer & Game Developer <br>
 ### 📚 Currently learning: C++, JavaScript, PHP & Data Structures  <br>
