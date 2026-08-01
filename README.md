@@ -8,7 +8,7 @@
 ### 💻 Aspiring Embedded Systems Software Developer & Game Developer <br>
 ### 📚 Currently learning: C++, JavaScript, PHP & Data Structures  <br>
 ### 📊 Passionate about stats, code, and building useful things  <br>
-#### &nbsp; &nbsp; <i>Depending on how you inteprete me :)</i> <sub> just kidding 🤣!!! </sub> <br><br>
+#### &nbsp; &nbsp; <i>Depending on how you inteprete me :)</i> <sub> just kidding !!! </sub> <br><br>
 # <em>👌Check out my ...</em> <br><br>
 ## &nbsp;🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=boitumelo-09&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
