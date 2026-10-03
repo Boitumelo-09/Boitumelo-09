@@ -5,7 +5,7 @@
 ##  I'm The GlitchLord ⛓ <em>i summon kernels, not functions.</em><br><br>
 ### I'm Boitumelo Clement Mkhondo & can be a: <br>
 ### 🎓 Student In Bachelor of Mathematical Sciences @ University of Limpopo  <br>
-### 💻 Aspiring Embedded Systems Software Developer & Game Developer <br>
+### 💻 Aspiring Software Developer <br>
 ### 📚 Currently learning: C++, JavaScript, PHP & Data Structures  <br>
 ### 📊 Passionate about stats, code, and building useful things  <br>
 #### &nbsp; &nbsp; <i>Depending on how you inteprete me :)</i> <sub> just kidding !!! </sub> <br><br>
